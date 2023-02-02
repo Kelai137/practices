@@ -20,5 +20,6 @@ void print_lowercase_alphabet(void)
 int main(void)
 {
 	print_lowercase_alphabet();
+	putchar('\n');
 	return (0);
 }
